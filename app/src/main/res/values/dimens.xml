@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="titulo_size">50sp</dimen>
+    <dimen name="activity_horizontal_margin_titulo">230dp</dimen>
+    <dimen name="activity_vertical_margin_titulo">100dp</dimen>
+    <dimen name="boton_size">20sp</dimen>
+    <dimen name="boton_size_icon">30dp</dimen>
+    <dimen name="boton_hor_marg">100dp</dimen>
+    <dimen name="boton_ver_marg">100dp</dimen>
+    <dimen name="boton_hor_marg_land">80dp</dimen>
+    <dimen name="boton_ver_marg_land">100dp</dimen>
+</resources>
